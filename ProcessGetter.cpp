@@ -1,4 +1,3 @@
-// File name: A3_sheetPb5_20220704
 // Purpose: Getting the process's (currerntly running) name, id, and memory usage
 // Author(s): Raghad Mohammed Suliman Mohammed
 // ID(s): 20220704
